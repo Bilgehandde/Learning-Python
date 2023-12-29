@@ -1,4 +1,4 @@
->>> # My Python Learning Journey - First Semester at University 🚀
+>>> # My Python Learning Journey - First Period at University 🚀
 
 > These files represent the assignments given during my first year's semester to learn Python. 
 
